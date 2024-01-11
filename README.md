@@ -1,0 +1,3 @@
+- Designed a normalized and efficient 3NF relational database model with 11 tables for babysitting services on an SQL server.
+- Developed and implemented queries to handle various functions such as recruiting nannies, providing information about the child, family and babysitter profile. 
+- Ensured data integrity and optimized database performance by utilizing indexing and normalization techniques.
